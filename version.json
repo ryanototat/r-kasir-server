@@ -1,1 +1,9 @@
-download_url → https://github.com/ryanototat/r-kasir-server/releases/download/v1.1/app-release.apk, isi update_message + changelog
+{
+  "latest_version": "1.1",
+  "latest_version_code": 2,
+  "force_update": false,
+  "update_title": "Update R-kasir Tersedia",
+  "update_message": "Versi 1.1 sudah tersedia.\n\nYang baru:\n- Fitur update otomatis via GitHub\n- Perbaikan bug",
+  "download_url": "https://github.com/ryanototat/r-kasir-server/releases/download/v1.1/app-release.apk",
+  "changelog": "perbaikan bug"
+}
