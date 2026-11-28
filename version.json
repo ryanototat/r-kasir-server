@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.1",
-  "latest_version_code": 2,
+  "latest_version": "1.2",
+  "latest_version_code": 3,
   "force_update": false,
   "update_title": "Update R-kasir Tersedia",
-  "update_message": "Versi 1.1 sudah tersedia.\n\nYang baru:\n- Fitur update otomatis via GitHub\n- Perbaikan bug",
+  "update_message": "Versi 1.2 sudah tersedia.\n\nYang baru:\n- Aplikasi terlihat lebih fresh",
   "download_url": "https://github.com/ryanototat/r-kasir-server/releases/download/v1.1/app-release.apk",
   "changelog": "perbaikan bug"
 }
